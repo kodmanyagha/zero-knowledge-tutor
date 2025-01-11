@@ -1,11 +1,16 @@
 # Zero Knowledge Tutorial
 
-Hi, this is Emir and I'm Rust Developer. I like to learn niche topics in my free times.
-And now I'm focusing to Zero-Knowledge Proof blockchain technologies.
+Hi, my name is Emir and I am a Rust Developer. I like to learn niche topics in my spare time.
+And now I focus on Zero-Knowledge Proof blockchain technologies. Actually I have had the
+opportunity to work in the blockchain field since 2018 but in those days there were two most
+known networks in blockchain: bitcoin and ethereum. But now the blockchain field is
+growing and there are many different networks and systems here.
 
 I'm following this tutorial for this project: https://www.udemy.com/course/zero-knowledge-proofs-in-rust/
 
 # Contact
+
+Feel free to ask any question to me or you can create issue on this repo.
 
 Linkedin: https://www.linkedin.com/in/kodmanyagha/
 
