@@ -5,7 +5,7 @@ And now I'm focusing to Zero-Knowledge Proof blockchain technologies.
 
 I'm following this tutorial for this project: https://www.udemy.com/course/zero-knowledge-proofs-in-rust/
 
-# Contact With Me
+# Contact
 
 Linkedin: https://www.linkedin.com/in/kodmanyagha/
 
