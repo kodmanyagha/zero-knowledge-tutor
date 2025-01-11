@@ -8,5 +8,7 @@ I'm following this tutorial for this project: https://www.udemy.com/course/zero-
 # Contact With Me
 
 Linkedin: https://www.linkedin.com/in/kodmanyagha/
+
 E-mail: kodmanyagha@gmail.com
+
 Twitter (Yes, it is twitter, not x, y or z): https://twitter.com/kodmanyagha
