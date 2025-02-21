@@ -112,6 +112,8 @@ impl Auth for AuthImpl {
                 ));
             };
 
+            let s = BigUint::from_bytes_be(&request.s);
+
             let zkp = ZKP::default();
             let verification = zkp.verify(
                 &user_info.r1,
@@ -119,7 +121,7 @@ impl Auth for AuthImpl {
                 &user_info.y1,
                 &user_info.y2,
                 &user_info.c,
-                &user_info.s,
+                &s,
             );
 
             let session_id = ZKP::generate_random_string(12);
