@@ -8,6 +8,11 @@ growing and there are many different networks and systems here.
 
 I'm following this tutorial for this project: https://www.udemy.com/course/zero-knowledge-proofs-in-rust/
 
+# Descriptions
+
+The project is using Chaum-Pedersen ZKP algorithm and GRPC for communication between
+client and server.
+
 # Contact
 
 Feel free to ask any question to me or you can create issue on this repo.
